@@ -1,3 +1,3 @@
 # Data-Mining-HandsOn
 
-Programming Assignment 1: Sentiment Analysis
+CMPE 255- Fall 2018 Assignments
